@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "Episodes", "Episodes\Episodes.nproj", "{8648BAE8-D525-4E96-9659-D47C7E88EDEE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episodes.Web", "Episodes.Web\Episodes.Web.csproj", "{DE881D04-99AF-417C-AAC0-B5BF7384DE54}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8648BAE8-D525-4E96-9659-D47C7E88EDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8648BAE8-D525-4E96-9659-D47C7E88EDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8648BAE8-D525-4E96-9659-D47C7E88EDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8648BAE8-D525-4E96-9659-D47C7E88EDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE881D04-99AF-417C-AAC0-B5BF7384DE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DE881D04-99AF-417C-AAC0-B5BF7384DE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE881D04-99AF-417C-AAC0-B5BF7384DE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
