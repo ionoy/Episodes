@@ -1,0 +1,14 @@
+obj/
+bin/
+debug/
+Debug/
+release/
+Release/
+packages/
+*.user
+*.suo
+*.log
+_ReSharper.*
+*.sdf
+*.opensdf
+*.lastbuildstate
